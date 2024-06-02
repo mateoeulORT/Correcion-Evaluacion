@@ -26,3 +26,4 @@ C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian
 C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\aplicaciones\obj\Debug\net8.0\Aplicaciones.pdb
 C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\aplicaciones\obj\Debug\net8.0\Aplicaciones.genruntimeconfig.cache
 C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\aplicaciones\obj\Debug\net8.0\ref\Aplicaciones.dll
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\aplicaciones\obj\Debug\net8.0\Aplicaciones.sourcelink.json

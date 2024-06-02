@@ -9,7 +9,7 @@ class Celular
     public bool InstalarApp(App app){
         
         bool sePudo = false;
-        if (EspacioMB > 0)
+        if (EspacioMB - app.Peso >= 0)
         {
             ListaApps.Add(app);
             EspacioMB -= app.Peso;
@@ -21,15 +21,12 @@ class Celular
 
     public bool ActualizarApp (string nombre){
         bool sePudo = false;
-
-        foreach (App app in ListaApps)
+        int indice = BuscarAppEnListaApps(nombre);
+        if (indice != -1)
         {
-            if (app.Nombre == nombre)
-            {
-                app.Version++;
-                Console.WriteLine(app.Version);
-                sePudo = true;
-            }
+            sePudo = true;
+            ListaApps[indice].Version++;
+            Console.WriteLine(ListaApps[indice].Version);     
         }
         return sePudo;
 
@@ -37,20 +34,13 @@ class Celular
 
     public bool DesinstalarApp (string nombre){
         bool sePudo = false;
-        int indice = 0;
-        foreach (App app in ListaApps)
-        {
-            if (app.Nombre == nombre)
-            {
-                indice = ListaApps.IndexOf(app);
-                EspacioMB += app.Peso;
-                sePudo = true;
-            }
-        }
+        int indice = BuscarAppEnListaApps(nombre);
 
-        if (indice != 0)
+        if (indice != -1){
+            EspacioMB += ListaApps[indice].Peso;
+            sePudo = true;
             ListaApps.RemoveAt(indice);
-
+        }
         return sePudo;
 
     }
@@ -72,7 +62,19 @@ class Celular
         EspacioMB = 128000;
     }
 
+    static int BuscarAppEnListaApps (string nombre){
+        int indice = 0;
 
+        while (indice < ListaApps.Count)
+        {
+            if (ListaApps[indice].Nombre == nombre)
+            {
+                return indice;
+            }
+            indice++;
+        }
+        return -1;
+    }
 
 
 

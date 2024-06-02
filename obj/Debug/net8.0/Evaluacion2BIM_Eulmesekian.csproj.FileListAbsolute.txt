@@ -1,0 +1,4 @@
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\obj\Debug\net8.0\Evaluacion2BIM_Eulmesekian.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\obj\Debug\net8.0\Evaluacion2BIM_Eulmesekian.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\obj\Debug\net8.0\Evaluacion2BIM_Eulmesekian.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\obj\Debug\net8.0\Evaluacion2BIM_Eulmesekian.csproj.CoreCompileInputs.cache

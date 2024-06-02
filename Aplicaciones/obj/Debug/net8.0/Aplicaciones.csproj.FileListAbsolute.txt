@@ -1,0 +1,28 @@
+Z:\Info\4to año\Programación\2do bimestre\Evaluacion2BIM_Eulmesekian\Aplicaciones\bin\Debug\net8.0\Aplicaciones.exe
+Z:\Info\4to año\Programación\2do bimestre\Evaluacion2BIM_Eulmesekian\Aplicaciones\bin\Debug\net8.0\Aplicaciones.deps.json
+Z:\Info\4to año\Programación\2do bimestre\Evaluacion2BIM_Eulmesekian\Aplicaciones\bin\Debug\net8.0\Aplicaciones.runtimeconfig.json
+Z:\Info\4to año\Programación\2do bimestre\Evaluacion2BIM_Eulmesekian\Aplicaciones\bin\Debug\net8.0\Aplicaciones.dll
+Z:\Info\4to año\Programación\2do bimestre\Evaluacion2BIM_Eulmesekian\Aplicaciones\bin\Debug\net8.0\Aplicaciones.pdb
+Z:\Info\4to año\Programación\2do bimestre\Evaluacion2BIM_Eulmesekian\Aplicaciones\obj\Debug\net8.0\Aplicaciones.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Info\4to año\Programación\2do bimestre\Evaluacion2BIM_Eulmesekian\Aplicaciones\obj\Debug\net8.0\Aplicaciones.AssemblyInfoInputs.cache
+Z:\Info\4to año\Programación\2do bimestre\Evaluacion2BIM_Eulmesekian\Aplicaciones\obj\Debug\net8.0\Aplicaciones.AssemblyInfo.cs
+Z:\Info\4to año\Programación\2do bimestre\Evaluacion2BIM_Eulmesekian\Aplicaciones\obj\Debug\net8.0\Aplicaciones.csproj.CoreCompileInputs.cache
+Z:\Info\4to año\Programación\2do bimestre\Evaluacion2BIM_Eulmesekian\Aplicaciones\obj\Debug\net8.0\Aplicaciones.dll
+Z:\Info\4to año\Programación\2do bimestre\Evaluacion2BIM_Eulmesekian\Aplicaciones\obj\Debug\net8.0\refint\Aplicaciones.dll
+Z:\Info\4to año\Programación\2do bimestre\Evaluacion2BIM_Eulmesekian\Aplicaciones\obj\Debug\net8.0\Aplicaciones.pdb
+Z:\Info\4to año\Programación\2do bimestre\Evaluacion2BIM_Eulmesekian\Aplicaciones\obj\Debug\net8.0\Aplicaciones.genruntimeconfig.cache
+Z:\Info\4to año\Programación\2do bimestre\Evaluacion2BIM_Eulmesekian\Aplicaciones\obj\Debug\net8.0\ref\Aplicaciones.dll
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\aplicaciones\bin\Debug\net8.0\Aplicaciones.exe
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\aplicaciones\bin\Debug\net8.0\Aplicaciones.deps.json
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\aplicaciones\bin\Debug\net8.0\Aplicaciones.runtimeconfig.json
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\aplicaciones\bin\Debug\net8.0\Aplicaciones.dll
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\aplicaciones\bin\Debug\net8.0\Aplicaciones.pdb
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\aplicaciones\obj\Debug\net8.0\Aplicaciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\aplicaciones\obj\Debug\net8.0\Aplicaciones.AssemblyInfoInputs.cache
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\aplicaciones\obj\Debug\net8.0\Aplicaciones.AssemblyInfo.cs
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\aplicaciones\obj\Debug\net8.0\Aplicaciones.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\aplicaciones\obj\Debug\net8.0\Aplicaciones.dll
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\aplicaciones\obj\Debug\net8.0\refint\Aplicaciones.dll
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\aplicaciones\obj\Debug\net8.0\Aplicaciones.pdb
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\aplicaciones\obj\Debug\net8.0\Aplicaciones.genruntimeconfig.cache
+C:\Users\Usuario\Downloads\Evaluacion2BIM_Eulmesekian\Evaluacion2BIM_Eulmesekian\aplicaciones\obj\Debug\net8.0\ref\Aplicaciones.dll
